@@ -2,3 +2,5 @@
 primum contactum
 
 sit vis vobiscum
+
+remotis renovatio
